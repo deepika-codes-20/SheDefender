@@ -1,0 +1,3 @@
+-- SheDefender intentionally starts with an empty database.
+-- Do not insert demonstration users, incidents, contacts, responders or safety zones.
+-- Create the first administrator with: python backend/bootstrap_admin.py
